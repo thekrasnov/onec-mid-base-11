@@ -227,25 +227,6 @@
     <fullTextSearch>Use</fullTextSearch>
     <dataHistory>Use</dataHistory>
   </attributes>
-  <attributes uuid="9716cb7e-a014-4f86-91b2-f3405a210b44">
-    <name>АК_Скидка</name>
-    <synonym>
-      <key>ru</key>
-      <value>Скидка</value>
-    </synonym>
-    <type>
-      <types>Number</types>
-      <numberQualifiers>
-        <precision>5</precision>
-        <scale>2</scale>
-      </numberQualifiers>
-    </type>
-    <minValue xsi:type="core:UndefinedValue"/>
-    <maxValue xsi:type="core:UndefinedValue"/>
-    <fillValue xsi:type="core:UndefinedValue"/>
-    <fullTextSearch>Use</fullTextSearch>
-    <dataHistory>Use</dataHistory>
-  </attributes>
   <forms uuid="0fa92a59-d7cb-4a74-829a-9b3e8366b05b">
     <name>ФормаДокумента</name>
     <synonym>
